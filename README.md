@@ -76,7 +76,7 @@
 ---
 
 ### 시연
-![Start](docs/sanpquest_01_start.png)
+![Start](docs/snapquest_01_start.png)
 ![Battel](docs/snapquest_02_battle.png)
 ![Text_input](docs/snapquest_03_text_input.png)
 ![Goblin](docs/snapquest_04_goblin.png)
