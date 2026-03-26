@@ -148,9 +148,3 @@ miniproject-study-snap-quest/
 | **Azure Cognitive Services Speech** | 원어민 TTS 생성 및 발음 점수 계산 |
 
 > 모든 서비스는 Azure Portal에서 생성 후 키와 엔드포인트를 `.env`에 입력하면 됩니다.
-
----
-
-## 라이선스
-
-MIT
