@@ -76,12 +76,12 @@
 ---
 
 ### 시연
-![Start](docs/dashboard_01_start.png)
-![Battel](docs/dashboard_02_battle.png)
-![Text_input](docs/dashboard_03_text_input.png)
-![Goblin](docs/dashboard_04_goblin.png)
-![Damage](docs/dashboard_05_damage.png)
-![Leaderboard](docs/dashboard_06_leaderboard.png)
+![Start](docs/sanpquest_01_start.png)
+![Battel](docs/snapquest_02_battle.png)
+![Text_input](docs/snapquest_03_text_input.png)
+![Goblin](docs/snapquest_04_goblin.png)
+![Damage](docs/snapquest_05_damage.png)
+![Leaderboard](docs/snapquest_06_leaderboard.png)
 
 🎬 **[대시보드 시연 영상 보기](https://youtu.be/MbYR-KvhHWA)**
 
