@@ -32,3 +32,13 @@ SPEECH_REGION=...
 
 3. 실행
 python app.py
+
+## 시연
+![Start](docs/dashboard_01_start.png)
+![Battel](docs/dashboard_02_battle.png)
+![Text_input](docs/dashboard_03_text_input.png)
+![Goblin](docs/dashboard_04_goblin.png)
+![Damage](docs/dashboard_05_damage.png)
+![Leaderboard](docs/dashboard_06_leaderboard.png)
+
+🎬 **[대시보드 시연 영상 보기](https://youtu.be/MbYR-KvhHWA)**
