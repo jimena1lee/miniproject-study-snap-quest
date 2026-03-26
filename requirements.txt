@@ -1,0 +1,8 @@
+gradio
+azure-cognitiveservices-vision-computervision
+azure-ai-vision-imageanalysis
+openai
+azure-cognitiveservices-speech
+python-dotenv
+Pillow
+requests
