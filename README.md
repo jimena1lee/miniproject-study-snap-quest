@@ -151,6 +151,8 @@ miniproject-study-snap-quest/
 
 ---
 
-## 라이선스
+## 필요 조건
 
-MIT
+Python 3.10 이상
+Azure 계정 (Document Intelligence, Speech Service)
+OpenAI API 키
