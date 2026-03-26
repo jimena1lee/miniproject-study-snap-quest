@@ -1,4 +1,4 @@
-# Study Snap Quest
+# Study Snap Quest👽
 
 교과서 사진을 찍으면 단어 몬스터가 소환됩니다. 발음으로 처치하세요!
 
